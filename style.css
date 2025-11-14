@@ -1,6 +1,6 @@
 body{
     background-color: purple;
-    color: yellow rgb(205, 123, 8);
+    color: white rgb(205, 123, 8);
     font-family: "Story Script", sans-serif;
     margin: 0px;
 }
@@ -14,3 +14,11 @@ padding: 30px;
 h1{font-size: 30px;}
 
 p{font-size: 25px;}
+
+section{
+    background-color: gray;
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
